@@ -1,6 +1,9 @@
 function vb(){
    document.getElementById("krd1").style = " color:rgba(193, 70, 121, 0.2);";
-    document.getElementById("jjk2").style = " color:#8e2d55"
+    document.getElementById("krd").style.background = " #c14679";
+    document.getElementById("krdf").style.background = " none";
+    document.getElementById("krdf1").style.background = " none";
+    document.getElementById("jjk2").style = " color:white"
       document.getElementById("jjk").style = " color:black;";
   document.getElementById("arm711id").style = " color:rgba(21, 21, 21, 0.41);"
      document.getElementById("jjk1").style = " color: rgba(21, 21, 21, 0.41);"
@@ -19,8 +22,11 @@ function vb(){
 
 
 
-function h() {
-  document.getElementById("jjk").style = " color: #8e2d55;";
+function h() { 
+   document.getElementById("krdf").style.background = " #c14679";
+    document.getElementById("krd").style.background = " none";
+    document.getElementById("krdf1").style.background = " none";
+  document.getElementById("jjk").style = " color: white;";
   document.getElementById("arm711id").style = " color:rgba(193, 70, 121, 0.2);";
   document.getElementById("krd2").style = " color: black;";
    document.getElementById("jjk1").style = " color: rgba(21, 21, 21, 0.41);";
@@ -32,7 +38,10 @@ function h() {
     "We see the most important part of our business in ensuring the happiness of our staff and the satisfaction of our clients by creating a welcoming and caring atmosphere";
 }
 function ypo() {
-   document.getElementById("krd2").style = " color: #8e2d55;";
+    document.getElementById("krdf1").style.background = " #c14679";
+    document.getElementById("krd").style.background = " none";
+    document.getElementById("krdf").style.background = " none";
+   document.getElementById("krd2").style = " color: white;";
    document.getElementById("jjk1").style = " color:rgba(193, 70, 121, 0.2);"
     document.getElementById("jjk2").style = " color:black;"
      document.getElementById("krd1").style = " color:rgba(21, 21, 21, 0.41);"

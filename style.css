@@ -1,7 +1,7 @@
 * {
   margin: 0;
 }
-
+.nmb{margin-top: 25px;}
 .aws{
   display: flex;
   justify-content: space-between;
@@ -1550,6 +1550,7 @@ img {
   position: relative;
   overflow: hidden;
 }
+
 .arm743 {
   display: flex;
   justify-content: center;
@@ -1953,6 +1954,7 @@ img {
   .arm33 {
     display: none;
   }
+  .arm820{display: none;}
   .arm31 {
     margin-left: 0px;
     font-size: 30px;
@@ -2374,12 +2376,26 @@ img {
 .nba{display: none;}
 .arm20{display: none;}
 .bvc5{padding: 0px;}
+.bvc6{padding: 30px;}
 .bvc7{width: 90%;}
-.bvc3{width: 70%;}
+.bvc3{width: 80%;}
 .nba12:hover{display: none;}
 .nba3{width: 100%;}
 .nba101{display: block;}
 .nba102{width: 100%;}
 .bg2{width: 70%;}
 .mmad{display: none;}
+.arm1{padding: 25px;}
+.arm2{width: 100%;}
+.arm15{width: 68%;}
+.arm113{margin-left: 0px;}
+.arm601{margin-top: 25px;}
+.dfjcc{display: flex;justify-content: center;}
+.row102{display: none;}
+.row101{display: none;}
+.row100{display: none;}
+.cvbnm{display: none;}
+.bv8{width: auto;}
+.nba103{margin-top: 25px;}
+.nbv{margin-top: none;}
 }
