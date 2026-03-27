@@ -1943,6 +1943,7 @@ img {
   
   .qsde{display: none;}
 .armjs{padding: 0;}
+.arm20{display: none;}
   .arm40 {
     left: 2%;
   }
@@ -2371,7 +2372,7 @@ img {
   display: block;
 }
 .bvc5{padding: 0px;}
-.bvc7{width: 100%;}
+.bvc7{width: 90%;}
 .bvc3{width: 65%;}
 .nba12:hover{display: none;}
 .nba3{width: 100%;}
