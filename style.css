@@ -686,7 +686,7 @@ img {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  padding: 50px;
+  padding: 25px;
   width: 80%;
   margin: 0 auto;
 }
@@ -2371,12 +2371,14 @@ img {
 .bvc6{
   display: block;
 }
+.nba{display: none;}
 .arm20{display: none;}
 .bvc5{padding: 0px;}
 .bvc7{width: 90%;}
-.bvc3{width: 65%;}
+.bvc3{width: 70%;}
 .nba12:hover{display: none;}
 .nba3{width: 100%;}
 .nba101{display: block;}
 .nba102{width: 100%;}
+.bg2{width: 84%;}
 }
