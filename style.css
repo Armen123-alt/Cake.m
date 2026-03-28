@@ -2378,7 +2378,7 @@ img {
 .bvc5{padding: 0px;}
 .bvc6{padding: 30px;}
 .bvc7{width: 90%;}
-.bvc3{width: 80%;}
+.bvc3{width: 90%;}
 .nba12:hover{display: none;}
 .nba3{width: 100%;}
 .nba101{display: block;}
@@ -2398,4 +2398,8 @@ img {
 .bv8{width: auto;}
 .nba103{margin-top: 25px;}
 .nbv{margin-top: none;}
+.arm501{position: static;}
+.arm10000{display: flex;justify-content: center;align-items: center;}
+.arm70{position: static;}
+.bg2{position: static;}
 }
