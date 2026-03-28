@@ -2401,5 +2401,5 @@ img {
 .arm501{position: static;}
 .arm10000{display: flex;justify-content: center;align-items: center;}
 .arm70{position: static;}
-.bg2{position: static;}
+.bg2{position: static;margin: 0 auto;}
 }
